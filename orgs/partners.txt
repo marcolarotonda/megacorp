@@ -2,5 +2,5 @@ partner list
 TheStartup
 TheFactory
 TheHell
-AnotherCompany
+
 AnotherOneCompany
